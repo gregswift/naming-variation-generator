@@ -1,0 +1,4 @@
+{prefix}-{org}-{stack}-{access_need}
+{prefix}-{org}-{access_need}-{stack}
+{prefix}-{stack}-{org}-{access_need}
+{prefix}-{stack}-{access_need}-{org}

@@ -1,0 +1,8 @@
+db #database
+api
+app #application
+ui #user interface
+k8s #kubernetes
+cache #cache
+net #network
+code
